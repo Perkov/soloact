@@ -11,8 +11,7 @@ https://www.theatlantic.com/technology/archive/2015/03/what-makes-an-electric-gu
 Soloact hopes to stave off tired ears and the idiosyncrasies of sound engineering with a machine solution for guitar effect detection using deep neural networks.  We also aim to engage the average guitar-playing Joe(ess) with a suite of educational tools to help build a progressive understanding of audio profiling.
 
 
-**
-A Batch-15 Capstone project - Data Science Retreat, Berlin, 2018.**
+**A Batch-15 Capstone project by Krish Daswani and Stjepan Perkovic - Data Science Retreat, Berlin, 2018.**
 
 ## Getting Started
 
